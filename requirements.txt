@@ -1,0 +1,12 @@
+Flask==1.1.1
+line-bot-sdk==1.16.0
+sxtwl==1.1.0
+zhdate==0.1
+apscheduler==3.8.1
+bs4==0.0.1
+tzlocal==2.1
+requests==2.26.0
+gunicorn==20.0.4
+pandas==1.2.4
+lxml==4.5.2
+opencc-python-reimplemented==0.1.6
