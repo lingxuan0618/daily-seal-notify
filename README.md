@@ -1,5 +1,4 @@
-
-##　Python 證券投資分析 & 股票聊天機器人入門共學營 期末專題
+## Python證券投資分析&股票聊天機器人入門共學營期末專題
 
 ## 專題簡報連結
 [每日豹報](https://drive.google.com/file/d/1laFqeWkxyl4Vde7OX0Ut3mJ2JXzGMyr4/view?usp=sharing)
